@@ -24,8 +24,8 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kundan16082001&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundan16082001&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -42,4 +42,4 @@
 ### 📫 Connect With Me  
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
 - Portfolio: https://your-portfolio-link.com  
-- Email: **yourmail@gmail.com**
+- Email: **giriyakundan@gmail.com**
